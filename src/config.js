@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "H8ers Club";
 const description = "Undefined Membership club";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4";
 
 const solanaMetadata = {
   symbol: "UNDF",
