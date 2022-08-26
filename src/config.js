@@ -24,6 +24,27 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
+    growEditionSizeTo: 6,
+    layersOrder: [
+      { name: "Background",
+        options: {
+          bypassDNA: false
+        }
+      },
+      { name: "Ninja",
+        options: {
+          bypassDNA: false
+        }
+      },
+      { name: "Neck"},
+      { name: "Glasses" },
+      { name: "Headwear" },
+      // { name: "Shine", options: { blend: MODE.screen, opacity: 0.6 } }
+    ],
+  }
+];
+/* const layerConfigurations = [
+  {
     growEditionSizeTo: 10,
     layersOrder: [
       { name: "Background",
@@ -47,20 +68,22 @@ const layerConfigurations = [
       { name: "Glare", options: { blend: MODE.screen, opacity: 0.6 } }
     ],
   }
-];
+]; */
 
 const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
 const format = {
+  width: 2160,
+  height: 2160,/* 
   width: 512,
-  height: 512,
+  height: 512, */
   smoothing: false,
 };
 
 const gif = {
-  export: true,
+  export: false,
   repeat: 0,
   quality: 100,
   delay: 300,
