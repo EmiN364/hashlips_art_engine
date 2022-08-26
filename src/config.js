@@ -5,17 +5,17 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const namePrefix = "H8ers Club";
+const description = "Undefined Membership club";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
-  symbol: "YC",
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  symbol: "UNDF",
+  seller_fee_basis_points: 1500, // Define how much % you want from secondary market sales 1000 = 10%
+  external_url: "https://h8ers.club",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0xD26f4302f036C4Db0D9BC9442704AA9c9E079afa",
       share: 100,
     },
   ],
@@ -24,20 +24,32 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 10,
     layersOrder: [
-      { name: "Background" },
+      { name: "Background",
+        options: {
+          bypassDNA: false
+        }
+      },
       { name: "Eyeball" },
-      { name: "Eye color" },
+      {
+        name: "Eye color",
+        options: {
+          // blend: MODE.destinationIn,
+          // opacity: 0.2,
+          displayName: "Awesome Eye Color",
+        },
+      },
       { name: "Iris" },
       { name: "Shine" },
       { name: "Bottom lid" },
       { name: "Top lid" },
+      { name: "Glare", options: { blend: MODE.screen, opacity: 0.6 } }
     ],
-  },
+  }
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
@@ -48,10 +60,10 @@ const format = {
 };
 
 const gif = {
-  export: false,
+  export: true,
   repeat: 0,
   quality: 100,
-  delay: 500,
+  delay: 300,
 };
 
 const text = {
