@@ -1,0 +1,18 @@
+{
+  "name": "H8ers Club #6",
+  "description": "Undefined Membership club",
+  "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/6.png",
+  "dna": "6a4095ff1499f9ab2a5f1372c3be7cdfeee58651",
+  "edition": 6,
+  "date": 1661543574050,
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crown"
+    }
+  ]
+}

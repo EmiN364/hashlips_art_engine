@@ -1,0 +1,94 @@
+[
+  {
+    "name": "H8ers Club #5",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/5.png",
+    "dna": "b30403726dc88bd9611052a178c83eab62a8cb6d",
+    "edition": 5,
+    "date": 1661543569143,
+    "attributes": [
+      {
+        "trait_type": "Glasses",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "name": "H8ers Club #4",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/4.png",
+    "dna": "ba790f905875040bf0c650441e98557af1c19c91",
+    "edition": 4,
+    "date": 1661543570398,
+    "attributes": [
+      {
+        "trait_type": "Ninja",
+        "value": "NINJA"
+      }
+    ]
+  },
+  {
+    "name": "H8ers Club #1",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/1.png",
+    "dna": "057c63d6844267a446cb5e4d1dde80d3822f5d5e",
+    "edition": 1,
+    "date": 1661543571413,
+    "attributes": [
+      {
+        "trait_type": "Neck",
+        "value": "Chain"
+      }
+    ]
+  },
+  {
+    "name": "H8ers Club #2",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/2.png",
+    "dna": "1c7ef4144440ce9ee264ad5e8aa53b7c85cc3879",
+    "edition": 2,
+    "date": 1661543572483,
+    "attributes": [
+      {
+        "trait_type": "Headwear",
+        "value": "Crown"
+      }
+    ]
+  },
+  {
+    "name": "H8ers Club #6",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/6.png",
+    "dna": "6a4095ff1499f9ab2a5f1372c3be7cdfeee58651",
+    "edition": 6,
+    "date": 1661543574050,
+    "attributes": [
+      {
+        "trait_type": "Glasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Crown"
+      }
+    ]
+  },
+  {
+    "name": "H8ers Club #3",
+    "description": "Undefined Membership club",
+    "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/3.png",
+    "dna": "828fc70c631f0987293570fe275e30f15c959dd5",
+    "edition": 3,
+    "date": 1661543576511,
+    "attributes": [
+      {
+        "trait_type": "Neck",
+        "value": "Chain"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Black"
+      }
+    ]
+  }
+]
