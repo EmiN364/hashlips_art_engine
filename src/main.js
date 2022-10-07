@@ -173,7 +173,7 @@ const addMetadata = (_dna, _edition) => {
 
 const addAttributes = (_element) => {
   let selectedElement = _element.layer.selectedElement;
-  if (selectedElement.name != "Empty" && selectedElement.name != "NINJA" && _element.layer.name != "Background")
+  if (selectedElement.name != "Empty" && selectedElement.name != "Ninja" && _element.layer.name != "Background")
     attributesList.push({
       trait_type: _element.layer.name,
       value: selectedElement.name,

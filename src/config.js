@@ -24,21 +24,25 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 6,
+    growEditionSizeTo: 500,
     layersOrder: [
-      { name: "Background",
+      /* { name: "Background",
         options: {
           bypassDNA: false
         }
-      },
+      }, */
       { name: "Ninja",
         options: {
-          bypassDNA: false
+          bypassDNA: true
         }
       },
-      { name: "Neck"},
+      { name: "EYES" },
+      { name: "CLOTH" },
+      { name: "BACK"},
+      { name: "MASK" },
+      { name: "CHAIN" },
       { name: "Glasses" },
-      { name: "Headwear" },
+      { name: "HEAD" },
       // { name: "Shine", options: { blend: MODE.screen, opacity: 0.6 } }
     ],
   }
@@ -108,7 +112,7 @@ const pixelFormat = {
 
 const background = {
   generate: true,
-  brightness: "80%",
+  brightness: "0%",
   static: false,
   default: "#000000",
 };

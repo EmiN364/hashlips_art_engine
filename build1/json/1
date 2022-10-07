@@ -1,0 +1,14 @@
+{
+  "name": "H8ers Club #1",
+  "description": "Undefined Membership club",
+  "image": "ipfs://QmQFRGjD72EX8Tn8ShMaZ2U72MErozbqgL8kyv1HELVNY4/1.png",
+  "dna": "057c63d6844267a446cb5e4d1dde80d3822f5d5e",
+  "edition": 1,
+  "date": 1661543571413,
+  "attributes": [
+    {
+      "trait_type": "Neck",
+      "value": "Chain"
+    }
+  ]
+}
