@@ -282,7 +282,24 @@ const isDnaUnique = (_DnaList = new Set(), _dna = "") => {
 
 const createDna = (_layers) => {
   let randNum = [];
+  let flag = false
   _layers.forEach((layer) => {
+    if(layer.name == "CHAINS HOODIE" && flag) {
+      let index = layer.elements.findIndex((element) => element.name == "Empty")
+      return randNum.push(
+        `${layer.elements[index].id}:${layer.elements[index].filename}${
+          layer.bypassDNA ? "?bypassDNA=true" : ""
+        }`
+      );
+    }
+    else if(layer.name == "CHAINS BODY" && !flag) {
+      let index = layer.elements.findIndex((element) => element.name == "Empty")
+      return randNum.push(
+        `${layer.elements[index].id}:${layer.elements[index].filename}${
+          layer.bypassDNA ? "?bypassDNA=true" : ""
+        }`
+      );
+    }
     var totalWeight = 0;
     layer.elements.forEach((element) => {
       totalWeight += element.weight;
@@ -293,6 +310,10 @@ const createDna = (_layers) => {
       // subtract the current weight from the random weight until we reach a sub zero value.
       random -= layer.elements[i].weight;
       if (random < 0) {
+        if (layer.name == "HOODIE" && layer.elements[i].name == "Empty") {
+          console.debug("Empty cloth found, changing flag");
+          flag = true;
+        }
         return randNum.push(
           `${layer.elements[i].id}:${layer.elements[i].filename}${
             layer.bypassDNA ? "?bypassDNA=true" : ""
