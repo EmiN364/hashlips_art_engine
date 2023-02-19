@@ -24,14 +24,14 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1000,
+    growEditionSizeTo: 500000,
     layersOrder: [
       /* { name: "Background",
         options: {
           bypassDNA: false
         }
       }, */
-      { name: "SKINS",
+      { name: "SKIN",
         options: {
           bypassDNA: true
         }
@@ -43,7 +43,8 @@ const layerConfigurations = [
       { name: "CHAINS BODY" },
       { name: "CHAINS HOODIE" },
       { name: "GLASSES" },
-      { name: "CHEST" },
+      { name: "ACCESORIES BODY" },
+      { name: "ACCESORIES HOODIE" },
       { name: "HEAD" },
       // { name: "Shine", options: { blend: MODE.screen, opacity: 0.6 } }
     ],
@@ -76,13 +77,13 @@ const layerConfigurations = [
   }
 ]; */
 
-const shuffleLayerConfigurations = true;
+const shuffleLayerConfigurations = false;
 
 const debugLogs = false;
 
 const format = {
-  width: 2160,
-  height: 2160,/* 
+  width: 1080,
+  height: 1080,/* 
   width: 512,
   height: 512, */
   smoothing: false,
@@ -113,13 +114,13 @@ const pixelFormat = {
 };
 
 const background = {
-  generate: true,
+  generate: false,
   brightness: "0%",
   static: false,
   default: "#000000",
 };
 
-const extraMetadata = {};
+const extraMetadata = { "external_url": "https://h8ers.club/" };
 
 const rarityDelimiter = "#";
 

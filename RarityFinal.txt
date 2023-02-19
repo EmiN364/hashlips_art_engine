@@ -1,0 +1,1181 @@
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: SKIN
+{
+  trait: 'Dragon',
+  weight: '1',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Gold',
+  weight: '1',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+{
+  trait: 'Human',
+  weight: '1000',
+  occurrence: '963 in 1000 editions (96.30 %)'
+}
+{
+  trait: 'Leopard',
+  weight: '5',
+  occurrence: '4 in 1000 editions (0.40 %)'
+}
+{
+  trait: 'Marble',
+  weight: '4',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Reptile',
+  weight: '2',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Robot',
+  weight: '1',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Silver',
+  weight: '1',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Snake',
+  weight: '2',
+  occurrence: '3 in 1000 editions (0.30 %)'
+}
+{
+  trait: 'White Leopard',
+  weight: '5',
+  occurrence: '7 in 1000 editions (0.70 %)'
+}
+{
+  trait: 'Zebra',
+  weight: '5',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+
+Trait type: EYES
+{
+  trait: 'Black',
+  weight: '53',
+  occurrence: '66 in 1000 editions (6.60 %)'
+}
+{
+  trait: 'Blue',
+  weight: '98',
+  occurrence: '110 in 1000 editions (11.00 %)'
+}
+{
+  trait: 'Brown',
+  weight: '402',
+  occurrence: '455 in 1000 editions (45.50 %)'
+}
+{
+  trait: 'Demon',
+  weight: '33',
+  occurrence: '40 in 1000 editions (4.00 %)'
+}
+{
+  trait: 'Glow',
+  weight: '12',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Green',
+  weight: '110',
+  occurrence: '109 in 1000 editions (10.90 %)'
+}
+{
+  trait: 'High',
+  weight: '18',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Leopard',
+  weight: '18',
+  occurrence: '17 in 1000 editions (1.70 %)'
+}
+{
+  trait: 'Monster',
+  weight: '21',
+  occurrence: '30 in 1000 editions (3.00 %)'
+}
+{
+  trait: 'Snake',
+  weight: '18',
+  occurrence: '17 in 1000 editions (1.70 %)'
+}
+{
+  trait: 'Violet',
+  weight: '95',
+  occurrence: '112 in 1000 editions (11.20 %)'
+}
+
+Trait type: BACK
+{
+  trait: 'AK47',
+  weight: '30',
+  occurrence: '31 in 1000 editions (3.10 %)'
+}
+{
+  trait: 'Assault Rifle',
+  weight: '50',
+  occurrence: '59 in 1000 editions (5.90 %)'
+}
+{
+  trait: 'Black Angel Wings',
+  weight: '10',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: 'Black Baseball Bat',
+  weight: '30',
+  occurrence: '30 in 1000 editions (3.00 %)'
+}
+{
+  trait: 'Black Demon Wings',
+  weight: '25',
+  occurrence: '22 in 1000 editions (2.20 %)'
+}
+{
+  trait: 'Black Sword',
+  weight: '20',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Black Trident',
+  weight: '10',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Empty',
+  weight: '200',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden AK47',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Golden Assault Rifle',
+  weight: '10',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Golden Baseball Bat',
+  weight: '30',
+  occurrence: '28 in 1000 editions (2.80 %)'
+}
+{
+  trait: 'Golden Katana',
+  weight: '10',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: 'Golden Sniper Rifle',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Golden Sword',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Golden Trident',
+  weight: '10',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Light Blue Toy Gun',
+  weight: '10',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Red Baseball Bat',
+  weight: '30',
+  occurrence: '38 in 1000 editions (3.80 %)'
+}
+{
+  trait: 'Red Demon Wings',
+  weight: '25',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Red Toy Gun',
+  weight: '10',
+  occurrence: '9 in 1000 editions (0.90 %)'
+}
+{
+  trait: 'Red Trident',
+  weight: '30',
+  occurrence: '35 in 1000 editions (3.50 %)'
+}
+{
+  trait: 'Silver AK47',
+  weight: '20',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Silver Assault Rifle',
+  weight: '30',
+  occurrence: '34 in 1000 editions (3.40 %)'
+}
+{
+  trait: 'Silver Baseball Bat',
+  weight: '30',
+  occurrence: '29 in 1000 editions (2.90 %)'
+}
+{
+  trait: 'Silver Katana',
+  weight: '20',
+  occurrence: '26 in 1000 editions (2.60 %)'
+}
+{
+  trait: 'Silver Sniper Rifle',
+  weight: '30',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Silver Sword',
+  weight: '20',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Skate',
+  weight: '30',
+  occurrence: '31 in 1000 editions (3.10 %)'
+}
+{
+  trait: 'Skis',
+  weight: '30',
+  occurrence: '43 in 1000 editions (4.30 %)'
+}
+{
+  trait: 'Sniper Rifle',
+  weight: '80',
+  occurrence: '88 in 1000 editions (8.80 %)'
+}
+{
+  trait: 'Trident Silver',
+  weight: '30',
+  occurrence: '37 in 1000 editions (3.70 %)'
+}
+{
+  trait: 'White Angel Wings',
+  weight: '30',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Wooden Baseball Bat',
+  weight: '30',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Yellow Toy Gun',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+
+Trait type: MASK
+{
+  trait: 'Black Beauty',
+  weight: '186',
+  occurrence: '209 in 1000 editions (20.90 %)'
+}
+{
+  trait: 'Black Puffer',
+  weight: '10',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+{
+  trait: 'Blackberry Cordial',
+  weight: '48',
+  occurrence: '50 in 1000 editions (5.00 %)'
+}
+{
+  trait: 'Burgundy',
+  weight: '39',
+  occurrence: '56 in 1000 editions (5.60 %)'
+}
+{
+  trait: 'Carbon Fiber',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Clouds',
+  weight: '1',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+{
+  trait: 'Coffe Quartz',
+  weight: '28',
+  occurrence: '33 in 1000 editions (3.30 %)'
+}
+{
+  trait: 'Dahlia',
+  weight: '49',
+  occurrence: '59 in 1000 editions (5.90 %)'
+}
+{
+  trait: 'Dark Green',
+  weight: '52',
+  occurrence: '57 in 1000 editions (5.70 %)'
+}
+{
+  trait: 'Downtown Brown',
+  weight: '70',
+  occurrence: '74 in 1000 editions (7.40 %)'
+}
+{
+  trait: 'Fairway',
+  weight: '44',
+  occurrence: '49 in 1000 editions (4.90 %)'
+}
+{
+  trait: 'Glass Colors',
+  weight: '1',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Grey Puffer',
+  weight: '10',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Iridescent',
+  weight: '5',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: 'Lava Smoke',
+  weight: '55',
+  occurrence: '63 in 1000 editions (6.30 %)'
+}
+{
+  trait: 'Leopard',
+  weight: '10',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Light Blue',
+  weight: '29',
+  occurrence: '31 in 1000 editions (3.10 %)'
+}
+{
+  trait: 'Love',
+  weight: '12',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+{
+  trait: 'Orange Puffer',
+  weight: '10',
+  occurrence: '8 in 1000 editions (0.80 %)'
+}
+{
+  trait: 'Ripped',
+  weight: '2',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Scales',
+  weight: '1',
+  occurrence: '3 in 1000 editions (0.30 %)'
+}
+{
+  trait: 'Teddy Dahlia',
+  weight: '20',
+  occurrence: '29 in 1000 editions (2.90 %)'
+}
+{
+  trait: 'Teddy Downtown Brown',
+  weight: '20',
+  occurrence: '26 in 1000 editions (2.60 %)'
+}
+{
+  trait: 'Teddy Lava Smoke ',
+  weight: '20',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'Teddy Light Blue',
+  weight: '20',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Turkish Sea',
+  weight: '40',
+  occurrence: '54 in 1000 editions (5.40 %)'
+}
+{
+  trait: 'Ultra Violet',
+  weight: '65',
+  occurrence: '76 in 1000 editions (7.60 %)'
+}
+{
+  trait: 'Zebra',
+  weight: '10',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+
+Trait type: HOODIE
+{
+  trait: 'Empty',
+  weight: '350',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Louvre',
+  weight: '11',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Moulin',
+  weight: '11',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+{
+  trait: 'The Black$heep',
+  weight: '100',
+  occurrence: '113 in 1000 editions (11.30 %)'
+}
+{
+  trait: 'THE H8ER N1',
+  weight: '16',
+  occurrence: '31 in 1000 editions (3.10 %)'
+}
+{
+  trait: 'THE H8ER N2',
+  weight: '16',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'THE H8ER N3',
+  weight: '16',
+  occurrence: '22 in 1000 editions (2.20 %)'
+}
+{
+  trait: 'THE H8ER N4',
+  weight: '16',
+  occurrence: '21 in 1000 editions (2.10 %)'
+}
+{
+  trait: 'THE H8ER N5',
+  weight: '16',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'THE H8ER N6',
+  weight: '16',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'The New Gothic',
+  weight: '11',
+  occurrence: '8 in 1000 editions (0.80 %)'
+}
+{
+  trait: 'The New Green Gothic',
+  weight: '11',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'The New Violet Gothic',
+  weight: '11',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'The Secret Woo Orange',
+  weight: '11',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'The Secret Woo Yellow',
+  weight: '11',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'The Secret Woo',
+  weight: '11',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'TRAP$TAR F',
+  weight: '33',
+  occurrence: '34 in 1000 editions (3.40 %)'
+}
+{
+  trait: 'TRAP$TAR P',
+  weight: '33',
+  occurrence: '37 in 1000 editions (3.70 %)'
+}
+{
+  trait: 'TRAP$TAR R',
+  weight: '33',
+  occurrence: '40 in 1000 editions (4.00 %)'
+}
+{
+  trait: 'TRAP$TAR Z',
+  weight: '33',
+  occurrence: '52 in 1000 editions (5.20 %)'
+}
+{
+  trait: 'Versalles',
+  weight: '11',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Worst Behavior Black',
+  weight: '11',
+  occurrence: '21 in 1000 editions (2.10 %)'
+}
+{
+  trait: 'Worst Behavior Orange',
+  weight: '11',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'Worst Behavior',
+  weight: '11',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+
+Trait type: CHAINS BODY
+{
+  trait: 'Empty',
+  weight: '200',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden AK47',
+  weight: '20',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: 'Golden Cuban Link',
+  weight: '125',
+  occurrence: '27 in 1000 editions (2.70 %)'
+}
+{
+  trait: 'Golden Happy Face',
+  weight: '30',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Golden Headphones',
+  weight: '25',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Golden Heartbroken',
+  weight: '20',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: 'Golden Sad Face',
+  weight: '35',
+  occurrence: '7 in 1000 editions (0.70 %)'
+}
+{
+  trait: 'Golden Skull',
+  weight: '12',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+{
+  trait: 'Golden Snake',
+  weight: '48',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Golden U',
+  weight: '99',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Golden Undefined',
+  weight: '99',
+  occurrence: '26 in 1000 editions (2.60 %)'
+}
+{
+  trait: 'Golden Yin and Yang',
+  weight: '80',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Headphones',
+  weight: '89',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Pearl Collar',
+  weight: '148',
+  occurrence: '40 in 1000 editions (4.00 %)'
+}
+{
+  trait: 'Silver AK47',
+  weight: '20',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+{
+  trait: 'Silver Cuban Link',
+  weight: '125',
+  occurrence: '29 in 1000 editions (2.90 %)'
+}
+{
+  trait: 'Silver Happy Face',
+  weight: '30',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Silver Headphones',
+  weight: '45',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Silver Heartbroken',
+  weight: '20',
+  occurrence: '4 in 1000 editions (0.40 %)'
+}
+{
+  trait: 'Silver Sad Face',
+  weight: '35',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Silver Skull',
+  weight: '12',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Silver Snake',
+  weight: '148',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Silver U',
+  weight: '125',
+  occurrence: '26 in 1000 editions (2.60 %)'
+}
+{
+  trait: 'Silver Undefined',
+  weight: '125',
+  occurrence: '36 in 1000 editions (3.60 %)'
+}
+{
+  trait: 'Silver Yin and Yang',
+  weight: '80',
+  occurrence: '25 in 1000 editions (2.50 %)'
+}
+
+Trait type: CHAINS HOODIE
+{
+  trait: 'Empty',
+  weight: '200',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden AK47',
+  weight: '20',
+  occurrence: '8 in 1000 editions (0.80 %)'
+}
+{
+  trait: 'Golden Happy Face',
+  weight: '30',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Golden Headphones',
+  weight: '25',
+  occurrence: '9 in 1000 editions (0.90 %)'
+}
+{
+  trait: 'Golden Heartbroken',
+  weight: '20',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Golden Sad Face',
+  weight: '35',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Golden Skull',
+  weight: '12',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Golden Snake',
+  weight: '48',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Golden U',
+  weight: '99',
+  occurrence: '38 in 1000 editions (3.80 %)'
+}
+{
+  trait: 'Golden Undefined',
+  weight: '99',
+  occurrence: '45 in 1000 editions (4.50 %)'
+}
+{
+  trait: 'Golden Yin and Yang',
+  weight: '80',
+  occurrence: '47 in 1000 editions (4.70 %)'
+}
+{
+  trait: 'Headphones',
+  weight: '89',
+  occurrence: '37 in 1000 editions (3.70 %)'
+}
+{
+  trait: 'Silver AK47',
+  weight: '20',
+  occurrence: '8 in 1000 editions (0.80 %)'
+}
+{
+  trait: 'Silver Happy Face',
+  weight: '30',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Silver Headphone',
+  weight: '45',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Silver Heartbroken',
+  weight: '20',
+  occurrence: '7 in 1000 editions (0.70 %)'
+}
+{
+  trait: 'Silver Sad Face',
+  weight: '35',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: 'Silver Skull',
+  weight: '12',
+  occurrence: '4 in 1000 editions (0.40 %)'
+}
+{
+  trait: 'Silver Snake',
+  weight: '148',
+  occurrence: '66 in 1000 editions (6.60 %)'
+}
+{
+  trait: 'Silver U',
+  weight: '125',
+  occurrence: '36 in 1000 editions (3.60 %)'
+}
+{
+  trait: 'Silver Undefined',
+  weight: '125',
+  occurrence: '42 in 1000 editions (4.20 %)'
+}
+{
+  trait: 'Silver Yin and Yang',
+  weight: '80',
+  occurrence: '27 in 1000 editions (2.70 %)'
+}
+
+Trait type: GLASSES
+{
+  trait: 'Black Cyclops',
+  weight: '12',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Black UNDF',
+  weight: '22',
+  occurrence: '23 in 1000 editions (2.30 %)'
+}
+{
+  trait: 'Blue UNDF',
+  weight: '12',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Black',
+  weight: '12',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Blue',
+  weight: '12',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Burgundy Leopard ',
+  weight: '12',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Leopard',
+  weight: '12',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Red Leopard',
+  weight: '12',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Yellow Leopard',
+  weight: '12',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'Certified Crew Member 2 Yellow',
+  weight: '12',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: "Emi's",
+  weight: '12',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: 'Empty',
+  weight: '620',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden Cyclops',
+  weight: '12',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Green UNDF',
+  weight: '16',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Red UNDF',
+  weight: '16',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Silver Cyclops',
+  weight: '12',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'White UNDF',
+  weight: '16',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Yellow UNDF',
+  weight: '23',
+  occurrence: '26 in 1000 editions (2.60 %)'
+}
+
+Trait type: ACCESORIES BODY
+{
+  trait: 'Basketball',
+  weight: '50',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Bullet Belt',
+  weight: '90',
+  occurrence: '44 in 1000 editions (4.40 %)'
+}
+{
+  trait: 'Bulletproof Vest',
+  weight: '30',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: 'Empty',
+  weight: '800',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden Nunchaku',
+  weight: '10',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Silver Nunchaku',
+  weight: '20',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+
+Trait type: ACCESORIES HOODIE
+{
+  trait: 'Basketball',
+  weight: '50',
+  occurrence: '27 in 1000 editions (2.70 %)'
+}
+{
+  trait: 'Bullet Belt',
+  weight: '90',
+  occurrence: '53 in 1000 editions (5.30 %)'
+}
+{
+  trait: 'Bulletproof Vest',
+  weight: '30',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'Empty',
+  weight: '800',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Golden Nunchaku',
+  weight: '10',
+  occurrence: '4 in 1000 editions (0.40 %)'
+}
+{
+  trait: 'Silver Nunchaku',
+  weight: '20',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+
+Trait type: HEAD
+{
+  trait: 'American Football Helmet',
+  weight: '20',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Astronaut Helmet',
+  weight: '20',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Beanie Undefined',
+  weight: '30',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Beanie UNDF X H8ers Club',
+  weight: '30',
+  occurrence: '22 in 1000 editions (2.20 %)'
+}
+{
+  trait: 'Beanie UNDF',
+  weight: '30',
+  occurrence: '30 in 1000 editions (3.00 %)'
+}
+{
+  trait: 'Black Aureola',
+  weight: '25',
+  occurrence: '22 in 1000 editions (2.20 %)'
+}
+{
+  trait: 'Black Aviator Helmet',
+  weight: '30',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: 'Black Bucket Hat',
+  weight: '60',
+  occurrence: '48 in 1000 editions (4.80 %)'
+}
+{
+  trait: 'Black Crown',
+  weight: '25',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Black Demon Headband',
+  weight: '25',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Black Headband',
+  weight: '40',
+  occurrence: '32 in 1000 editions (3.20 %)'
+}
+{
+  trait: 'Black Motorycle Helmet',
+  weight: '30',
+  occurrence: '21 in 1000 editions (2.10 %)'
+}
+{
+  trait: 'Black Spikes Crown',
+  weight: '25',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Black War Helmet',
+  weight: '30',
+  occurrence: '16 in 1000 editions (1.60 %)'
+}
+{
+  trait: 'Blue War Helmet',
+  weight: '20',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Crown Flowers Silver',
+  weight: '1',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Crystal Crown',
+  weight: '5',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: "Duko's Black Bandana",
+  weight: '20',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: "Duko's Blue Bandana",
+  weight: '20',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: "Duko's Green Bandana",
+  weight: '20',
+  occurrence: '13 in 1000 editions (1.30 %)'
+}
+{
+  trait: "Duko's Leopard Bandana",
+  weight: '5',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+{
+  trait: "Duko's Red Bandana",
+  weight: '5',
+  occurrence: '5 in 1000 editions (0.50 %)'
+}
+{
+  trait: "Duko's White Bandana",
+  weight: '20',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Empty',
+  weight: '400',
+  occurrence: '0 in 1000 editions (0.00 %)'
+}
+{
+  trait: 'Flower Crown',
+  weight: '25',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Gas Mask',
+  weight: '20',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Golden Aureola',
+  weight: '15',
+  occurrence: '9 in 1000 editions (0.90 %)'
+}
+{
+  trait: 'Golden Crown',
+  weight: '15',
+  occurrence: '17 in 1000 editions (1.70 %)'
+}
+{
+  trait: 'Golden Demon Headband',
+  weight: '15',
+  occurrence: '4 in 1000 editions (0.40 %)'
+}
+{
+  trait: 'Golden Flower Crown',
+  weight: '15',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+{
+  trait: 'Golden Motorcycle Helmet',
+  weight: '10',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Golden Spikes Crown',
+  weight: '15',
+  occurrence: '10 in 1000 editions (1.00 %)'
+}
+{
+  trait: 'Grafiti Buket B_W',
+  weight: '5',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Grafiti Buket',
+  weight: '4',
+  occurrence: '2 in 1000 editions (0.20 %)'
+}
+{
+  trait: 'Green War Helmet',
+  weight: '30',
+  occurrence: '24 in 1000 editions (2.40 %)'
+}
+{
+  trait: 'Knifes',
+  weight: '5',
+  occurrence: '6 in 1000 editions (0.60 %)'
+}
+{
+  trait: 'Red Demon Headband',
+  weight: '20',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Red War Helmet',
+  weight: '20',
+  occurrence: '20 in 1000 editions (2.00 %)'
+}
+{
+  trait: 'Silver Aureola',
+  weight: '20',
+  occurrence: '18 in 1000 editions (1.80 %)'
+}
+{
+  trait: 'Silver Crown',
+  weight: '20',
+  occurrence: '11 in 1000 editions (1.10 %)'
+}
+{
+  trait: 'Silver Demon Headband',
+  weight: '20',
+  occurrence: '14 in 1000 editions (1.40 %)'
+}
+{
+  trait: 'Silver Motorcycle Helmet',
+  weight: '14',
+  occurrence: '12 in 1000 editions (1.20 %)'
+}
+{
+  trait: 'Silver Spikes Crown',
+  weight: '20',
+  occurrence: '15 in 1000 editions (1.50 %)'
+}
+{
+  trait: 'White Aviator Helmet',
+  weight: '30',
+  occurrence: '19 in 1000 editions (1.90 %)'
+}
+{
+  trait: 'White Bucket Hat',
+  weight: '60',
+  occurrence: '36 in 1000 editions (3.60 %)'
+}
+{
+  trait: 'White Headband',
+  weight: '40',
+  occurrence: '29 in 1000 editions (2.90 %)'
+}
+{
+  trait: 'White Motorcycle Helmet',
+  weight: '2',
+  occurrence: '1 in 1000 editions (0.10 %)'
+}
+

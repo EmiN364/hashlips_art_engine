@@ -129,14 +129,14 @@ const drawBackground = () => {
 };
 
 const addMetadata = (_dna, _edition) => {
-  let dateTime = Date.now();
+  // let dateTime = Date.now();
   let tempMetadata = {
-    name: `${namePrefix} #${_edition}`,
+    // name: `${namePrefix} #${_edition}`,
     description: description,
     image: `${baseUri}/${_edition}.png`,
     dna: sha1(_dna),
     edition: _edition,
-    date: dateTime,
+    // date: dateTime,
     ...extraMetadata,
     attributes: attributesList,
     // compiler: "HashLips Art Engine",
@@ -177,6 +177,26 @@ const addAttributes = (_element) => {
     attributesList.push({
       trait_type: _element.layer.name,
       value: selectedElement.name,
+    });
+  if (_element.layer.name == "HOODIE" && selectedElement.name.includes("H8ers"))
+    attributesList.push({
+      trait_type: "MAFIA",
+      value: "H8ers",
+    });
+  else if (_element.layer.name == "HOODIE" && selectedElement.name.includes("Trapstar"))
+    attributesList.push({
+      trait_type: "MAFIA",
+      value: "Trap$tar",
+    });
+  else if (_element.layer.name == "HOODIE" && selectedElement.name.includes("Blacksheep"))
+    attributesList.push({
+      trait_type: "MAFIA",
+      value: "Black$heep",
+    });
+  else if (_element.layer.name == "HOODIE")
+    attributesList.push({
+      trait_type: "MAFIA",
+      value: "Deserter",
     });
 };
 
@@ -291,8 +311,21 @@ const createDna = (_layers) => {
           layer.bypassDNA ? "?bypassDNA=true" : ""
         }`
       );
-    }
-    else if(layer.name == "CHAINS BODY" && !flag) {
+    } else if(layer.name == "CHAINS BODY" && !flag) {
+      let index = layer.elements.findIndex((element) => element.name == "Empty")
+      return randNum.push(
+        `${layer.elements[index].id}:${layer.elements[index].filename}${
+          layer.bypassDNA ? "?bypassDNA=true" : ""
+        }`
+      );
+    } else if(layer.name == "ACCESORIES HOODIE" && flag) {
+      let index = layer.elements.findIndex((element) => element.name == "Empty")
+      return randNum.push(
+        `${layer.elements[index].id}:${layer.elements[index].filename}${
+          layer.bypassDNA ? "?bypassDNA=true" : ""
+        }`
+      );
+    } else if(layer.name == "ACCESORIES BODY" && !flag) {
       let index = layer.elements.findIndex((element) => element.name == "Empty")
       return randNum.push(
         `${layer.elements[index].id}:${layer.elements[index].filename}${

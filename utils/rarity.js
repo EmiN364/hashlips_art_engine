@@ -48,6 +48,8 @@ data.forEach((element) => {
   attributes.forEach((attribute) => {
     let traitType = attribute.trait_type;
     let value = attribute.value;
+    if (traitType == "MAFIA")
+      return;
 
     let rarityDataTraits = rarityData[traitType];
     rarityDataTraits.forEach((rarityDataTrait) => {
